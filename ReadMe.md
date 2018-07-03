@@ -17,11 +17,11 @@ This Theme includes customized layouts, adtional lava Templates, and a custom bl
 </ul>
 <h4>Lava Templates</h4>
 <ul>
-    <li>ADDED</li>
+    ---ADDED---
     <li>Team.lava</li>
     <li>TimeLine.lava</li>
     <li>GroupFinder.lava</li>
-    <li>MODIFIED</li>
+    <br/>---MODIFIED---
     <li>BlogItemList.Lava</li>
     <li>Calendar.Lava</li>
     <li>PageNav.Lava</li>
@@ -33,7 +33,7 @@ This Theme includes customized layouts, adtional lava Templates, and a custom bl
 
 <h4>Intall Notes</h4>
 <ul>
-    <li>A Page Attribute titled "Header Image" is needed for the header background.</li>
+    <li>A Page Attribute titled <code>Header Image</code> is needed for the header background.</li>
     <li>The Homepage layout has the option to add text inside the header.  Use the markup Below as a guide<br/>
     <pre><code>
 &lt;div class="intro-lead-in"&gt;Latest Message&lt;/div&gt;
@@ -43,7 +43,7 @@ This Theme includes customized layouts, adtional lava Templates, and a custom bl
 </code></pre>
     </li>
     <li>
-        The Timeline Lava is designed for a content channel that's manually ordered.  It required content, and two Item Attributes:"Image", "Milestone Date"<br/>
+        The Timeline Lava is designed for a content channel that's manually ordered.  It required content, and two Item Attributes:<code>Image</code>, <code>Milestone Date</code><br/>
         Items don't require an image.  If you don't place an image, the title will display inside a circle with the primary theme color as the BG.
     </li>
 </ul>

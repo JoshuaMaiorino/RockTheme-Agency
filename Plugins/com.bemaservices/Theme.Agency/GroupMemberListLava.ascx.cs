@@ -36,13 +36,13 @@ using Rock.Web.Cache;
 using Rock.Web.UI;
 using Rock.Web.UI.Controls;
 
-namespace Guru.Petros.Theme.Agency
+namespace com.bemaservices.Theme.Agency
 {
     /// <summary>
     /// Block to display content items, html, xml, or transformed xml based on a SQL query or stored procedure.
     /// </summary>
     [DisplayName( "Group Member List Lava" )]
-    [Category( "Petros Guru" )]
+    [Category( "Bema Services > Agency Theme" )]
     [Description( "Block to display a list of group members using a lava template" )]
 
     // Block Properties
